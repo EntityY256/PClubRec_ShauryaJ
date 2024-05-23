@@ -10,3 +10,4 @@ The 2nd part (labelled modelling) can be run by running each code snippets seque
 
 Pytorch can be used to convert sentences to vecotrs, which can then be compared using cosine similarity formula. This is the main logic by which we get our comparisions of texts with input query.
 We used pytorch tensors and converted all sentences to tensors, which then gets converted back to text after comparision,
+![Screenshot (44)](https://github.com/EntityY256/PClubRec_ShauryaJ/assets/143442236/2fb77788-9741-4b3a-bf8e-53e0d0892969)
